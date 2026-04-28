@@ -1,12 +1,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-Enabled-blueviolet?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-2CA5A0?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-blueviolet?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0A66C2?style=for-the-badge)
 
 # AI Data Enablement Hub
 
-### Empowering Data-Driven Decision Making with AI, Analytics & Digital Tools
+### An enterprise-style platform for enabling employees to adopt AI, data analytics, and digital tools through practical, real-world workflows.
 
 ---
 
